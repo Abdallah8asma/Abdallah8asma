@@ -25,7 +25,7 @@ I design, secure and operate **multi-environment (DEV → PROD) cloud-native sys
 ![OVH](https://img.shields.io/badge/OVH-123F6D?logo=ovh&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
----
+
 
 ### ⚙️ CI/CD, GitOps & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
@@ -38,7 +38,7 @@ I design, secure and operate **multi-environment (DEV → PROD) cloud-native sys
 ![AWS CodeBuild](https://img.shields.io/badge/CodeBuild-FF9900?logo=aws&logoColor=white)
 ![AWS CodeDeploy](https://img.shields.io/badge/CodeDeploy-FF9900?logo=aws&logoColor=white)
 
----
+
 
 ### 🔐 DevSecOps & Security
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
@@ -48,35 +48,34 @@ I design, secure and operate **multi-environment (DEV → PROD) cloud-native sys
 ![Bytebase](https://img.shields.io/badge/Bytebase-3A7AFE)
 ![Trivy](https://img.shields.io/badge/Trivy-00BFFF)
 
----
+
 
 ### 📦 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
----
 
 ### 🏗️ Infrastructure as Code & Configuration
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?logo=aws&logoColor=white)
 
----
+
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791)
 
----
+
 
 ### 🖥️ Linux & Virtual Machines
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![VM](https://img.shields.io/badge/Virtual_Machines-555555)
 ![SSH](https://img.shields.io/badge/SSH-000000?logo=gnu-bash&logoColor=white)
 
----
+
 
 ### 📊 Monitoring & Logs
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
@@ -85,7 +84,7 @@ I design, secure and operate **multi-environment (DEV → PROD) cloud-native sys
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?logo=aws&logoColor=white)
 
----
+
 
 ## ☁️ AWS Services Experience
 ![VPC](https://img.shields.io/badge/VPC-AWS-orange)
@@ -100,7 +99,7 @@ I design, secure and operate **multi-environment (DEV → PROD) cloud-native sys
 ![IAM](https://img.shields.io/badge/IAM-AWS-orange)
 ![Security Groups](https://img.shields.io/badge/Security_Groups-AWS-orange)
 
----
+
 
 ## ☁️ Google Cloud Experience
 ![GCP](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?logo=googlecloud&logoColor=white)
@@ -108,7 +107,7 @@ I design, secure and operate **multi-environment (DEV → PROD) cloud-native sys
 ![Cloud Native](https://img.shields.io/badge/Cloud_Native-34A853)
 ![Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4)
 
----
+
 
 ## 🌍 Environment Management
 ![DEV](https://img.shields.io/badge/DEV-green)
@@ -123,23 +122,10 @@ I design, secure and operate **multi-environment (DEV → PROD) cloud-native sys
 
 ---
 
-## 🎓 Certifications
-- AWS Certified Solutions Architect – Professional  
-- Harness Certified Continuous Delivery & GitOps Developer  
-- Astronomer – Apache Airflow Fundamentals & DAG Authoring  
-- Cybersecurity Essentials – Linux Foundation  
-- Introduction to Linux – Linux Foundation  
-- Scrum Fundamentals & Scrum for DevOps  
-- SC-900 & AZ-900 – Microsoft Azure  
-- Docker Essentials – IBM  
-- Cloud Native & Multicloud Applications – IBM  
-- Istio & Kubernetes – IBM  
-## 🎓 Certifications & Badges
-
 ## 🎓 Certifications & Badges
 
 ### ☁️ Cloud & DevOps Certifications
-[![Harness Certified Continuous Delivery & GitOps Developer](https://images.credly.com/badges/277319df-ee86-46ad-b073-fb3f6f0e25bd/public_url)](https://www.credly.com/badges/277319df-ee86-46ad-b073-fb3f6f0e25bd/public_url)
+[![Harness Certified Continuous Delivery & GitOps Developer](https://images.credly.com/size/110x110/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob)](https://www.credly.com/badges/277319df-ee86-46ad-b073-fb3f6f0e25bd/public_url)
 
 ### 🐳 Container & Cloud Native
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/badges/1e2789b1-e83c-4555-b5e7-770b50edd47c/public_url)](https://www.credly.com/badges/1e2789b1-e83c-4555-b5e7-770b50edd47c/public_url)  
