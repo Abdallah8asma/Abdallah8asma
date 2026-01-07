@@ -125,16 +125,16 @@ I design, secure and operate **multi-environment (DEV → PROD) cloud-native sys
 ## 🎓 Certifications & Badges
 
 ### ☁️ Cloud & DevOps Certifications
-[![Harness Certified Continuous Delivery & GitOps Developer](https://images.credly.com/size/110x110/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob)](https://www.credly.com/badges/277319df-ee86-46ad-b073-fb3f6f0e25bd/public_url)
+[![Harness Certified Continuous Delivery & GitOps Developer](https://images.credly.com/size/110x110/images/74906bef-749e-4e7e-b0a5-ae2f6eff5a06/image.png)](https://www.credly.com/badges/277319df-ee86-46ad-b073-fb3f6f0e25bd/public_url)
 
 ### 🐳 Container & Cloud Native
-[![Docker Essentials: A Developer Introduction](https://images.credly.com/badges/1e2789b1-e83c-4555-b5e7-770b50edd47c/public_url)](https://www.credly.com/badges/1e2789b1-e83c-4555-b5e7-770b50edd47c/public_url)  
-[![Astronomer Certification DAG Authoring for Apache Airflow 3](https://images.credly.com/badges/82a1e751-1a73-4f2f-9891-3d28bebcbaa5/public_url)](https://www.credly.com/badges/82a1e751-1a73-4f2f-9891-3d28bebcbaa5/public_url)  
-[![Astronomer Certification for Apache Airflow 3 Fundamentals](https://images.credly.com/badges/f043231c-c81f-4a2a-84a4-db9ba9358dac/public_url)](https://www.credly.com/badges/f043231c-c81f-4a2a-84a4-db9ba9358dac/public_url)
+[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](https://www.credly.com/badges/1e2789b1-e83c-4555-b5e7-770b50edd47c/public_url)  
+[![Astronomer Certification DAG Authoring for Apache Airflow 3](https://images.credly.com/size/110x110/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob)](https://www.credly.com/badges/82a1e751-1a73-4f2f-9891-3d28bebcbaa5/public_url)  
+[![Astronomer Certification for Apache Airflow 3 Fundamentals](https://images.credly.com/size/110x110/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob)](https://www.credly.com/badges/f043231c-c81f-4a2a-84a4-db9ba9358dac/public_url)
 
 ### 🔐 Security & Linux
-[![LFC108: Cybersecurity Essentials](https://images.credly.com/badges/d52f24f8-e46c-440d-8c21-9d364275c4b3/public_url)](https://www.credly.com/badges/d52f24f8-e46c-440d-8c21-9d364275c4b3/public_url)  
-[![LFS101: Introduction to Linux](https://images.credly.com/badges/2b3640fd-a2f3-401f-95cb-f48777406691/public_url)](https://www.credly.com/badges/2b3640fd-a2f3-401f-95cb-f48777406691/public_url)
+[![LFC108: Cybersecurity Essentials](https://images.credly.com/size/110x110/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob)](https://www.credly.com/badges/d52f24f8-e46c-440d-8c21-9d364275c4b3/public_url)  
+[![LFS101: Introduction to Linux]([https://images.credly.com/badges/2b3640fd-a2f3-401f-95cb-f48777406691/public_url](https://images.credly.com/size/110x110/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob))](https://www.credly.com/badges/2b3640fd-a2f3-401f-95cb-f48777406691/public_url)
 
 ### 🪟 Microsoft Certifications
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/7e886279-2b39-45fd-adec-9cd429e52c44/public_url)  
