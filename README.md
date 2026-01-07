@@ -134,8 +134,9 @@ I design, secure and operate **multi-environment (DEV → PROD) cloud-native sys
 [![LFS101: Introduction to Linux](https://images.credly.com/size/110x110/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](https://www.credly.com/badges/2b3640fd-a2f3-401f-95cb-f48777406691/public_url)
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/7e886279-2b39-45fd-adec-9cd429e52c44/public_url)
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/564acc25-ac2f-48a0-9b11-7d12c1e5f017/public_url)
+[![Scrum Fundamentals Certified (SFC™)](https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
+[![Scrum for Operations and DevOps Fundamentals Certified (SODFC™)](https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SODFC.png)](https://www.scrumstudy.com/certification/scrum-for-operations-and-devops-fundamentals-certified)
 
-**🔗 Public Credly Profile:** [Asma Abdallah](https://www.credly.com/users/asma-abdallah.3c2f8ea0)
 
 **🔗 Public Credly Profile:** [Asma Abdallah](https://www.credly.com/users/asma-abdallah.3c2f8ea0)
 
